@@ -1,4 +1,4 @@
-# superstore-sales-analysis
+# Retail-Sales-Performance-Analysis
 📌 Project Overview
 This project focuses on analyzing sales data to identify business insights such as top-selling products, sales trends, and regional performance.
 The analysis helps businesses make better decisions using data.
